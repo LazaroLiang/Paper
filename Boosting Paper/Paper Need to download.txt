@@ -1,0 +1,37 @@
+need download
+	A deep learning-based multi-model ensemble method for cancer prediction.
+	A regularized ensemble framework of deep learning for cancer detection from multi-class, imbalanced training data
+	On the choice and influence of the number of boosting steps for high-dimensional linear Cox-models
+	Ensemble Methods for Improving Classifier Performance
+	Ensemble of Diversely Trained Support Vector Machines for Protein Fold Recognition
+	Creating an ensemble of diverse support vector machines using adaboost
+	Novel Selective Support Vertor Machine Ensemble Learning Algorithm(2008)
+	AdaBoost-based class imbalabce learing algorithm(2017)
+	Advance and Prospects of AdaBoost Algorithm(2013)
+	A boosting based ensemble learning algorithm in imbalanced data classification(2016)
+	Multi-class boosting with fuzzy decision trees(2017)
+	Boosting with Adaptive Sampling for Multi-class Classification(2016)
+	Multi-class Adaboost Algorithm Based on the Adjusted Weak Classifier(2017)
+	A Framework of Multiple Kernel Ensemble Learning for Hyperspectral Classification(2017)
+	CUSBoost: Cluster-based Under-sampling with Boosting for Imbalanced Classification(2017)
+	A novel ensemble method for classifying imbalanced data(2015)
+	A Support Vector Machine-Based Ensemble Algorithm for Breast Cancer Diagnosis(2017)
+	Imbalanced classification using support vector machine ensemble（2011）
+	AdaBoost-based artificial neural network learning(2017)
+	SVM and adaboost-based classifiers with fast PCA for face reocognition(2017)
+	
+	Hybrid Adaboost based on Genetic Algorithm for Gene Expression Data Classification(2017)
+
+	Tumor Microarray Gene Expression Data Classification Based on Weighted Extreme Learning Machine(2017)
+	Tumor gene expression data classification via sample expansion-based deep learning(2017)
+	Cancer Classification Based on Microarray Gene Expression Data Using Deep Learning
+	Instance categorization by support vector machines to adjust weights in AdaBoost for imbalanced data classification(2017)
+	
+	Use relative weight to improve the kNN for unbalanced text category(2010) weight knn
+	A weighted-resampling based transfer learning algorithm
+	A Study on the Noise Label Influence in Boosting Algorithms: AdaBoost, GBM and XGBoost
+	THE CLASSIFICATION OF CANCER GENE EXPRESSION PROFILES BY COMBINING SVM WITH ADABOOST
+	
+Feature Selection	
+	Application of cost-sensitive feature selection algorithm in tumor gene expression data classification(2017)
+	
