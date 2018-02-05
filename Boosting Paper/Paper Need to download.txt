@@ -1,4 +1,4 @@
-need download
+﻿need download
 	A deep learning-based multi-model ensemble method for cancer prediction.
 	A regularized ensemble framework of deep learning for cancer detection from multi-class, imbalanced training data
 	On the choice and influence of the number of boosting steps for high-dimensional linear Cox-models
@@ -31,6 +31,7 @@ need download
 	A weighted-resampling based transfer learning algorithm
 	A Study on the Noise Label Influence in Boosting Algorithms: AdaBoost, GBM and XGBoost
 	THE CLASSIFICATION OF CANCER GENE EXPRESSION PROFILES BY COMBINING SVM WITH ADABOOST
+	Remote Sensing Image Classification Based on Ensemble Extreme Learning Machine with Stacked Autoencoder
 	
 Feature Selection	
 	Application of cost-sensitive feature selection algorithm in tumor gene expression data classification(2017)
